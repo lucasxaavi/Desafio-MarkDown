@@ -1,12 +1,10 @@
 
-
 **Lucas Xavier**
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
-- PHP 
+- [X] Montador e Reparador de computador.
+- [X] HTML e CSS.
+- [ ] Téc de Informatica.
+
 
 
 ## Contato
