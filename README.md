@@ -19,7 +19,7 @@
 - [Instagram](https://instagram.com)
 - [Facebook](https://facebook.com)
 
-![images](https://user-images.githubusercontent.com/42070719/61918421-aea2c900-af27-11e9-9b2f-5189fe5dd01d.png) ![images](https://user-images.githubusercontent.com/42070719/61918421-aea2c900-af27-11e9-9b2f-5189fe5dd01d.png)
+![images](https://user-images.githubusercontent.com/42070719/61918421-aea2c900-af27-11e9-9b2f-5189fe5dd01d.png) 
 
 
 
